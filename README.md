@@ -1,2 +1,2 @@
-# Programiranje za internet
-Repozitorij za laboratorijske vježbe iz kolegija Programiranje za internet
+# Programiranje za Internet
+Repozitorij za laboratorijske vježbe iz kolegija Programiranje za Internet
