@@ -1,7 +1,8 @@
 # Programiranje za Internet
 Repozitorij za laboratorijske vježbe iz kolegija Programiranje za Internet
 
-Popis laboratorijskih vježbi:
+
+# Popis laboratorijskih vježbi:
 
 Vježba 1 - Osnove HTML-a
 
