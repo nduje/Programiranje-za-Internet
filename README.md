@@ -11,3 +11,5 @@ Repozitorij za laboratorijske vježbe iz kolegija Programiranje za Internet
 **Vježba 3** - Napredni CSS
 
 **Vježba 4** - Responzivni dizajn
+
+**Vježba 5** - JavaScript
